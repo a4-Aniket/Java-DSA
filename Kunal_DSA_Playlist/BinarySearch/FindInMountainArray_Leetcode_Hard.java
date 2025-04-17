@@ -16,7 +16,7 @@ public class FindInMountainArray_Leetcode_Hard {
             return firstTry;
         }
         //try to search in second half
-        return orderagnosticBS(arr, target, peak+1, arr.length -1 )
+        return orderagnosticBS(arr, target, peak+1, arr.length -1 );
     }
     static int peakIndexInMountainArray(int[] arr){
         int start = 0;
