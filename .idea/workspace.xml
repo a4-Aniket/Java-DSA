@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="499d2718-48ad-4919-bb31-956d2136931e" name="Changes" comment="Java dsa questions practice" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2uwaMs9Thbrkw84Xk5W5DEchr6N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arraylist.executor": "Run",
+    "Application.Arrays.executor": "Run",
+    "Application.Binary.executor": "Debug",
+    "Application.BinarySearchInInfiniteSizeArray.executor": "Run",
+    "Application.Ceiling.executor": "Run",
+    "Application.FirstandLastPositionOfTarget.executor": "Run",
+    "Application.Floor.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Leetcode.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.LinearSearchIn2DArray.executor": "Run",
+    "Application.LinearSearchString.executor": "Run",
+    "Application.LinearSearchString_inRange.executor": "Run",
+    "Application.MaximumWealth_Leetcode.executor": "Run",
+    "Application.Mountain.executor": "Run",
+    "Application.OrderAgnosticBS.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.TwoSumLeetcode.executor": "Run",
+    "Application.array.executor": "Run",
+    "Application.nextGreatestLetter_Leetcode.executor": "Run",
+    "Application.program.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/anike/Documents/Java DSA",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kunal_DSA_Playlist.arrays.Arraylist" />
+      <module name="Java DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kunal_DSA_Playlist.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kunal_DSA_Playlist.Inheritance" />
+      <module name="Java DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kunal_DSA_Playlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="Java DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nextGreatestLetter_Leetcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kunal_DSA_Playlist.BinarySearch.nextGreatestLetter_Leetcode" />
+      <module name="Java DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kunal_DSA_Playlist.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.nextGreatestLetter_Leetcode" />
+        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.Arraylist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="499d2718-48ad-4919-bb31-956d2136931e" name="Changes" comment="" />
+      <created>1743162045326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743162045326</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Java dsa questions practice">
+      <option name="closed" value="true" />
+      <created>1744914567758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744914567758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java dsa questions practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java dsa questions practice" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Kunal_DSA_Playlist/BinarySearch/FindInMountainArray_Leetcode_Hard.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
