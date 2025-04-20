@@ -1,5 +1,6 @@
 package Kunal_DSA_Playlist.BinarySearch;
 
+//This gives the floor of a number, that is the largest no smaller than the target
 import java.util.Scanner;
 public class Floor {
     public static void main(String[] args) {
