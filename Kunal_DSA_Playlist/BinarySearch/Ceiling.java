@@ -1,5 +1,6 @@
 package Kunal_DSA_Playlist.BinarySearch;
 
+//Ceiling of a number gives the smallest no larger than the target (simply the upper int value)
 import java.util.Scanner;
 public class Ceiling {
     public static void main(String[] args) {
