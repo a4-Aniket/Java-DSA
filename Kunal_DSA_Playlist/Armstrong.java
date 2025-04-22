@@ -3,7 +3,7 @@ package Kunal_DSA_Playlist;
 import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;
-
+//here if the num = sum of individual digits ^total no of digits, then it is called armstrong number
 public class Armstrong {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
