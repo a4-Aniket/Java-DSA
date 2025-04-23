@@ -1,6 +1,8 @@
 package Kunal_DSA_Playlist.BinarySearch;
 
 //here we can apply binary search in both the cases whether the array is sorted in ascending or in descending order 
+// so the binarysearch become order independent
+
 public class OrderAgnosticBS {
     public static void main(String[] args){
         int[] arr1 = {76,54,34,23,11};
