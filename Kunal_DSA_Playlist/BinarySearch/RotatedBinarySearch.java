@@ -16,12 +16,17 @@ public class RotatedBinarySearch {
         }
         //if pivot is found means that we have found 2 ascending sorted array
         //and here we have 3 cases
+        //case 1
         if(arr[pivot] == target){
             return pivot;
         }
+        //case 2
         else if(target >= arr[0]){
             return binarySearch(arr, target, 0 , pivot -1);
         }
+        //case 3
+        //target < start  so simply search in the second half of array i.e, from (pivot + 1 to end) bcoz all
+        //elements from start till pivot are going to be > target
         return binarySearch(arr, target, pivot +1, arr.length-1);
 
     }
@@ -49,15 +54,24 @@ public class RotatedBinarySearch {
         while(start <= end){
             int mid = start + (end -start)/2;
             //4 cases over here
+            //case 1
+            //checked mid< end to make sure that we don't get index out of bound error
             if(mid < end && arr[mid] > arr[mid+1]){
                 return mid; // found the ans
             }
+            //case 2
             else if (mid > start && arr[mid] < arr[mid-1]) {
                 return mid-1;
             }
+            //case 3
+            //all elements after mid are < start so we are ignoring all those elements by taking only the elements before mid
             else if( arr[mid] <= arr[start]){
                 end = mid - 1;
             }
+            //case 4
+            //if mid was the pivot it would be caught above so definitely more
+            // bigger number exists after the mid so we are searching in the second part of the array so searching after the mid
+            //therefore start = mid + 1
             else{
                 //if start is < middle element
                 start = mid + 1;
